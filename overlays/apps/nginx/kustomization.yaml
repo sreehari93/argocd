@@ -3,7 +3,7 @@ namePrefix: prod-
 nameSuffix: -nginx
 
 resources:
-  - ../../../base
+  - ../../../base/apps/nginx
 
 patches:
   - target:
