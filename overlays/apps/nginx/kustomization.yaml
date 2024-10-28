@@ -20,4 +20,4 @@ patches:
           spec:
             containers:
               - name: nginx
-                image: nginx:1.26  # Correctly placed inside the container spec
+                image: nginx:1.27.2  # Correctly placed inside the container spec
